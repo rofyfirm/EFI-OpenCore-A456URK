@@ -18,7 +18,7 @@ OpenCore 0.6.0 EFI Bootloader for Asus A456URK
 - Inside config.plist, there is `PlatformInfo > Generic`. I was labeled the `MLB`, `SystemSerialNumber` and `SystemUUID` as __InsertYourOwn__. Please to __insert your own__
 - Everything is work except the Nvidia Graphics Card, because Nvidia Optimus is no longer supported since Mojave
 - Battery indicator is not hotpached
-- In case you update the system (example: 10.15.1 to 10.15.2), please disable the kext that related to __IO80211Family.kext__ and __ATH9KFixup.kext__ first
+- In case you update the system (example: 10.15.1 to 10.15.2), please disable the kext that related to __IO80211Family.kext__ first
 
 ### Thanks to
 [Dortania Tutorial](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#starting-point)
