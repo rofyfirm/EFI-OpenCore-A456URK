@@ -1,5 +1,5 @@
 # EFI-OpenCore-A456URK
-OpenCore 0.6.0 EFI Bootloader for Asus A456URK
+OpenCore 0.6.1 EFI Bootloader for Asus A456URK
 
 ### System Properties
 - CPU : Intel i5-7200U Kabylake
